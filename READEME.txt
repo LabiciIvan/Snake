@@ -1,0 +1,12 @@
+This is one of my projects where I just wanted to create a childhood game, named Snake.
+It is one of my first childhood game where I spent hours playing it, and after I learnt to 
+code, I decided to clone a childhood game SNAKE.
+
+I hope you the viewer, yes you, I hope you like it and you should give it a try.
+
+Every line of code is commented, so it explains a little bit about the code.
+I used just Javascript, HTML and CSS  for this project. 
+
+I will return to this project, and try to use less repetitive code, and to clean it a little bit up.
+
+Thanks.
